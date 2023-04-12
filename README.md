@@ -1,4 +1,4 @@
-# Regress Out Covariates
+# Regress Out Covariates (WIP)
 
 [![](https://img.shields.io/pypi/v/regressout.svg)](https://pypi.python.org/pypi/regressout)
 [![CI](https://github.com/maximz/regressout/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/maximz/regressout/actions/workflows/ci.yaml)
