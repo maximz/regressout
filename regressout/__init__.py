@@ -4,7 +4,7 @@ from __future__ import annotations
 
 __author__ = """Maxim Zaslavsky"""
 __email__ = "maxim@maximz.com"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 import logging
 from typing import Union
