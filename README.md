@@ -1,5 +1,10 @@
 # regressout
 
+[![](https://img.shields.io/pypi/v/regressout.svg)](https://pypi.python.org/pypi/regressout)
+[![CI](https://github.com/maximz/regressout/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/maximz/regressout/actions/workflows/ci.yaml)
+[![](https://img.shields.io/badge/docs-here-blue.svg)](https://regressout.maximz.com)
+[![](https://img.shields.io/github/stars/maximz/regressout?style=social)](https://github.com/maximz/regressout)
+
 `regressout` removes the linear effect of observed covariates from a feature
 matrix. It provides `RegressOutCovariates`, a scikit-learn-style estimator
 that residualizes each feature column against a covariate matrix.
